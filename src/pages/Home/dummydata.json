@@ -1,0 +1,574 @@
+{
+  "code": "5789c38f-d6ac-4a64-9869-adbe75c18771",
+  "title": "Questionário p/ descobrir seu temperamento: RESPONDA COM SINCERIDADE.",
+  "description": "<p></p><p>Se você é melancólico, o próximo passo está aqui:</p><p><a href=\"https://doutoramelancolica.com\">https://doutoramelancolica.com</a></p>",
+  "retakeQuiz": true,
+  "randomQuestionsSort": true,
+  "maxQuestions": 20,
+  "answered": true,
+  "questions": [
+    {
+      "id": 10494112,
+      "text": "<p>Como você vê a sua vida DAQUI A 10 ANOS?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953112,
+          "text": "<p>Tenho muita ansiedade e preocupação em relação ao futuro. Tenho medo de tomar decisões erradas e me arrepender depois. Por isso, penso muito sobre o futuro. Principalmente, à noite, antes de dormir. Fico imaginando se vou conseguir realizar os meus sonhos...</p>",
+          "order": 1
+        },
+        {
+          "id": 41953109,
+          "text": "<p>Pra que fazer planos tão distantes? Tenho fé que tudo vai dar certo. Viva o hoje! Seja feliz agora!</p>",
+          "order": 2
+        },
+        {
+          "id": 41953110,
+          "text": "<p>Me vejo no topo. Rico, milionário. Campeão. Terei tanto sucesso que todos terão inveja de mim pois todos querem ser eu.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953111,
+          "text": "<p>A mesma coisa de hoje. Minha casa, meu carro, meu emprego, minha família. Tendo saúde, o resto a gente dá conta.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10512677,
+      "text": "<p>O quanto você SE COMPARA com as outras pessoas?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 42029144,
+          "text": "<p>O tempo todo. Me sinto inferior. Me coloco pra baixo. Fico pensando que os outros são sempre melhores que eu, que eu não mereço ter sucesso, que eu nunca vou ser amado ou que eu nunca vou conseguir ser feliz... é horrível. Odeio isso.</p>",
+          "order": 1
+        },
+        {
+          "id": 42029146,
+          "text": "<p>Eu penso que não é legal se comparar... então não faço isso. Acho que todos merecem ser felizes e que têm espaço pra todo mundo!</p>",
+          "order": 2
+        },
+        {
+          "id": 42029143,
+          "text": "<p>Se comparar é sim necessário, pois, eu preciso saber quem é o melhor. Sou competitivo e isso me motiva. Gosto de ganhar.</p>",
+          "order": 3
+        },
+        {
+          "id": 42029145,
+          "text": "<p>Nunca faço isso... cada um faz o que quiser com a própria vida. Eu realmente não me importo, só fico na minha e faço a minha parte.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494108,
+      "text": "<p>Qual a importância da ARTE (música, cinema, literatura) na sua vida?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953095,
+          "text": "<p>Tudo. Tenho os meus filmes favoritos que assisto e reassisto sempre. Tenho as minhas músicas tristes favoritas que não divido com ninguém. Admiro muito as pessoas inteligentes que gostam de ler e apreciar obras de arte assim como eu.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953096,
+          "text": "<p>Adoro. Gosto de tudo, sou eclético. Mas tem que ser animado! Estou sempre curtindo os hits do momento na rádio. Sempre fico ligado nos top 5 filmes mais assistidos do momento também.</p>",
+          "order": 2
+        },
+        {
+          "id": 41953093,
+          "text": "<p>Precisa ser de boa qualidade para se enquadrar no meu gosto musical. Só assisto a um filme se for premiado. Não perco tempo com qualquer coisa popular de baixa qualidade.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953094,
+          "text": "<p>Acho legal. Leio quando é necessário.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498492,
+      "text": "<p>Como você se comporta no seu TRABALHO?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971360,
+          "text": "<p>Tenho dificuldade de socializar. Tenho certeza que eles me acham estranho. Fujo de confraternizações. Procuro focar no meu trabalho, mas, já fui cobrado que eu deveria ser mais extrovertido.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971361,
+          "text": "<p>Converso com todo mundo. Faço amizade com facilidade. Faço questão de manter o sorriso no rosto e animar o dia as pessoas, onde eu estiver.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971362,
+          "text": "<p>Meu foco é o cargo de liderança. Meu foco é bater todas as metas. Meu foco é resultado e crescimento.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971359,
+          "text": "<p>Normal. Sigo as regras, sou pontual, fico na minha e faço o que me pedem.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494106,
+      "text": "<p>Como você descreveria a sua VIDA AMOROSA?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953085,
+          "text": "<p>Traumas e corações partidos. Mas ainda não desisti do amor. Lá no fundo, ainda tenho esperança de encontrar o meu verdadeiro amor.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953087,
+          "text": "<p>Agitada. Boa. Muito beijo na boca, muita história pra contar. Curti muito a juventude. Apaixono fácil mas esqueço fácil também. Tenho muitas relações casuais mas poucos relacionamentos sérios. O que importa é se divertir.</p>",
+          "order": 2
+        },
+        {
+          "id": 41953088,
+          "text": "<p>Tenho algumas decepções. Por culpa dos meus ex, claro. Todos malucos, ciumentos e mentirosos. Muito difícil encontrar alguém do meu nível hoje em dia.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953086,
+          "text": "<p>Normal. Tenho meu relacionamento estável (ou sei que logo vou encontrar uma pessoa do bem para me juntar e casar).</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498491,
+      "text": "<p>O que você faz quando alguém diz \"Preciso conversar com você\"?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971357,
+          "text": "<p>Me sinto culpado. Sinto medo de ter feito alguma coisa errada.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971355,
+          "text": "<p>Eu já ligo pra pessoa na hora, quer falar comigo, pode falar agora, quero saber o que aconteceu, qual a fofoca da vez?</p>",
+          "order": 2
+        },
+        {
+          "id": 41971356,
+          "text": "<p>Eu já xingo a pessoa mentalmente... gente chata que fica fazendo drama por tudo... ao invés de ser direto e falar logo, ficam enchendo meu saco.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971358,
+          "text": "<p>Não faço nada. Tenho preguiça de conversar. Depois a gente vê isso...</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494111,
+      "text": "<p>Qual tipo de CRIANÇA você foi na infância?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953106,
+          "text": "<p>Quietinha, obediente, chorona, criativa. Brincava com meus amigos imaginários dentro do meu quarto para não incomodar ninguém.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953108,
+          "text": "<p>Brincalhona e feliz! Saudades de passar o dia inteiro correndo na rua com a galera toda de pé descalço e joelho ralado!</p>",
+          "order": 2
+        },
+        {
+          "id": 41953105,
+          "text": "<p>Eu era uma criança maravilhosa. Sempre líder de sala. Popular, inteligente, forte, bonita, a melhor. Dei trabalho para os meus pais - mas ninguém mandou eles terem filhos. Pariu, tem que cuidar mesmo.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953107,
+          "text": "<p>Normal. Não lembro muito da infância, mas, meus pais dizem que sempre fui uma criança tranquila.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494113,
+      "text": "<p>O quanto você se importa quando alguém fala mal de você? (RESPONDA COM SINCERIDADE)</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953115,
+          "text": "<p>Me importo muito. Me esforço para ser agradar e ser gostado. Mesmo sem querer, fico mal quando alguém me critica.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953116,
+          "text": "<p>Nunca tive esse problema. Geralmente, me dou bem com todo mundo.</p>",
+          "order": 2
+        },
+        {
+          "id": 41953113,
+          "text": "<p>Gosto de ser o centro das atenções. Falem bem ou falem mal, mas falem de mim.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953114,
+          "text": "<p>Me importo zero. Tranquilo. Cada um faz o que quiser, desde que me deixe em paz.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498490,
+      "text": "<p>Qual é a sua definição de VIDA DE SUCESSO?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971353,
+          "text": "<p>Encontrar um propósito de vida, encontrar um dom que eu possa realmente contribuir para a humanidade. Viver de acordo com as minhas próprias regras. Longe da hipocrisia da sociedade. Uma vida livre, independente, autossuficiente.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971354,
+          "text": "<p>Estar com as pessoas com eu amo, me divertir, viajar o mundo, agradecer, amar, sorrir, ser feliz, aproveitar cada dia como se fosse o último.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971351,
+          "text": "<p>Ser reconhecido como o melhor no que eu faço. Ficar multimilionário. Ter a minha coleção de artigos de luxo. Que o meu nome seja uma referência por onde eu passe.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971352,
+          "text": "<p>Um bom emprego, um bom salário, uma casa própria com segurança, um casamento estável, uma rotina simples.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494110,
+      "text": "<p>Em que você fica PENSANDO antes de dormir?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953103,
+          "text": "<p>Em tudo. Difícil desligar minha cabeça. Estou sempre exausto de tanto pensar, mas, mesmo assim, tenho dificuldade para dormir pois fico relembrando e me cobrando e preocupando e ruminando os pensamentos intrusivos.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953101,
+          "text": "<p>Nada específico. Gosto de dormir assistindo televisão. Vendo algo engraçado pra dar risada ou fico até tarde conversando com alguém.</p>",
+          "order": 2
+        },
+        {
+          "id": 41953102,
+          "text": "<p>Apenas repasso minha agenda com os horários dos compromissos do dia seguinte.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953104,
+          "text": "<p>Fico pensando e nada não. Quando chega o meu horário de dormir, eu deito e durmo.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10512676,
+      "text": "<p>Como você definiria o seu nível de SAÚDE MENTAL?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 42029140,
+          "text": "<p>Péssima. Tenho certeza que eu tenho algum transtorno mental. Não é possível que eu seja normal!</p>",
+          "order": 1
+        },
+        {
+          "id": 42029141,
+          "text": "<p>Ótima. Sou uma pessoa feliz, mesmo com os altos e baixos da vida... eu faço questão de ser uma pessoa grata e feliz!</p>",
+          "order": 2
+        },
+        {
+          "id": 42029142,
+          "text": "<p>Quando você tem um objetivo grande na vida, ter saúde mental não é prioridade.</p>",
+          "order": 3
+        },
+        {
+          "id": 42029139,
+          "text": "<p>Não faço ideia... mas acho que eu sou uma pessoa normal.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498497,
+      "text": "<p>O que você faz quando precisa RELAXAR?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971379,
+          "text": "<p>Fico sozinho em casa vendo uma série e comendo algo bem gostoso.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971381,
+          "text": "<p>Saio com os meus amigos para algum lugar.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971382,
+          "text": "<p>Relaxar é para os fracos. Minha vida é focada em evolução.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971380,
+          "text": "<p>Durmo.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10512678,
+      "text": "<p>Como seria uma APOSENTADORIA FELIZ para você?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 42029149,
+          "text": "<p>Morando em algum lugar bem distante e bonito. Imagino uma casa antiga no meio das montanhas, com os meus animais, um cachecol e uma lareira, escrevendo um livro, lendo, desenhando, apreciando boa música.</p>",
+          "order": 1
+        },
+        {
+          "id": 42029150,
+          "text": "<p>Quero me manter jovem para sempre. Com uma família enorme e casa sempre cheia. Cada vez mais festas, eventos, viagens, sorrisos e abraços. Só quero ser saudável e feliz!</p>",
+          "order": 2
+        },
+        {
+          "id": 42029147,
+          "text": "<p>Não pretendo me aposentar. Quero ser útil o suficiente para continuar trabalhando e produzindo até o último dia da minha vida.</p>",
+          "order": 3
+        },
+        {
+          "id": 42029148,
+          "text": "<p>Meu sonho é receber o meu salário INSS garantido todo mês sem precisar trabalhar. Não faço ideia do que eu quero fazer, mas desde que eu possa descansar... qualquer coisa está bom. Não faço questão de viver por tanto tempo assim.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498495,
+      "text": "<p>O quanto você ESTÁ SATISFEITO COM A SUA VIDA HOJE?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971371,
+          "text": "<p>Não estou. Ainda não consigo me sentir feliz. Eu me cobro muito pela minha incapacidade. Poderia estar muito melhor que isso...</p>",
+          "order": 1
+        },
+        {
+          "id": 41971373,
+          "text": "<p>Muito! Sou uma pessoa feliz, independente do que aconteça, eu sei que vai melhorar! Vamos pra cima!</p>",
+          "order": 2
+        },
+        {
+          "id": 41971374,
+          "text": "<p>Sinto orgulho do meu desempenho PORÉM SEMPRE QUERO MAIS.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971372,
+          "text": "<p>Estou satisfeito. Cada coisa no seu tempo. Não adianta apressar, não adianta reclamar. A vida é o que é.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494107,
+      "text": "<p>Como você se sente depois de BRIGAR com alguém?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953091,
+          "text": "<p>Odeio brigar. Não acho certo quando as pessoas brigam comigo. Fico triste, fico magoado e não consigo esquecer.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953089,
+          "text": "<p>Brigar é normal em um relacionamento, a gente briga o tempo todo e logo já volta a se falar de novo.</p>",
+          "order": 2
+        },
+        {
+          "id": 41953090,
+          "text": "<p>Brigar é necessário. Uma oportunidade de aprendizado. Gosto de ganhar as discussões.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953092,
+          "text": "<p>Brigar não vale a pena. Eu evito ao máximo qualquer tipo de conflito. É sempre melhor relevar.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498496,
+      "text": "<p>Quais CRÍTICAS você já ouviu ao longo da vida?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971375,
+          "text": "<p>Muitas... sou muito incompreendido. Já me chamaram de exagerado, emocionado, dramático, chato, sonso, antissocial, arrogante ou até de \"frescura\"</p>",
+          "order": 1
+        },
+        {
+          "id": 41971376,
+          "text": "<p>Na verdade, eu lembro mais dos elogios. Mas eu faço muitas piadas, e algumas pessoas chatas não gostam.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971377,
+          "text": "<p>Apenas críticas de pessoas invejosas. Eu sou exigente, sou direto, gosto de mandar e eu explodo fácil quando alguém me irrita. Se você pisar no meu calo... sai de baixo pois eu vou atacar de volta.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971378,
+          "text": "<p>Acho que nenhuma. Eu não me envolvo nessas coisas.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10494109,
+      "text": "<p>Como você se sente quando tem uma FESTA para ir no final de semana?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41953098,
+          "text": "<p>Nervoso. Torcendo para alguém cancelar. Festa é sempre muito difícil, não sei socializar, fico deslocado, me deixa exausto.</p>",
+          "order": 1
+        },
+        {
+          "id": 41953099,
+          "text": "<p>Feliz, animado e ansioso para chegar logo! Por mim, vou em festa toda semana!</p>",
+          "order": 2
+        },
+        {
+          "id": 41953100,
+          "text": "<p>Preparado. Já sei exatamente a roupa que vou vestir. Já sei quem eu quero encontrar por lá. Já sei o horário que vou chegar e o horário que vou embora.</p>",
+          "order": 3
+        },
+        {
+          "id": 41953097,
+          "text": "<p>Tanto faz. Só estou indo nessa festa por obrigação. Vou ficar no meu canto, tranquilo, só observando a gritaria alheia.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498493,
+      "text": "<p>Como você define a sua VIDA SOCIAL?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971364,
+          "text": "<p>Muitas decepções com as pessoas. Dificuldade em manter amizades porque eu me dedico 100% mas não é recíproco. Preguiça de conhecer pessoas novas, então, fico sozinho mesmo. A qualidade importa mais que a quantidade.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971366,
+          "text": "<p>Maravilhosa. Tenho amigos maravilhosos, estou sempre rodeado por pessoas incríveis, gente do bem. Gosto de conhecer lugares novos, conhecer pessoas novas, quanto mais, melhor.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971363,
+          "text": "<p>Faço questão de andar com os melhores. Frequentar os melhores lugares da cidade.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971365,
+          "text": "<p>Tenho o mesmo grupo de amigos desde a infância. Nos encontramos sempre no mesmo dia e no mesmo lugar, há anos.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10498494,
+      "text": "<p>O quanto você se ARREPENDE PELOS ERROS DO PASSADO?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 41971370,
+          "text": "<p>Bastante. Penso muito nisso. Se eu pudesse voltar atrás, faria tudo diferente.</p>",
+          "order": 1
+        },
+        {
+          "id": 41971367,
+          "text": "<p>Zero arrependimentos, só gratidão. Eu amo a minha vida.</p>",
+          "order": 2
+        },
+        {
+          "id": 41971368,
+          "text": "<p>Eu não cometo erros. As coisas dão errado pela incompetência dos outros ao meu redor.</p>",
+          "order": 3
+        },
+        {
+          "id": 41971369,
+          "text": "<p>Nunca perco tempo pensando nisso. O passado já passou.</p>",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": 10512679,
+      "text": "<p>Como é a QUALIDADE DO SEU SONO?</p>",
+      "mandatory": false,
+      "randomizeAnswerOrder": false,
+      "answers": [
+        {
+          "id": 42029153,
+          "text": "<p>Tenho muita dificuldade em desligar a minha cabeça. Fico ruminando e desenterrando pensamentos do passado antes de dormir. E, mesmo quando durmo bem, meus sonhos são reais, intensos, vívidos, altamente imaginativos e malucos.</p>",
+          "order": 1
+        },
+        {
+          "id": 42029151,
+          "text": "<p>Durmo muito bem. Se estou cansado, consigo dormir com facilidade em qualquer lugar.</p>",
+          "order": 2
+        },
+        {
+          "id": 42029152,
+          "text": "<p>Já tive insônia mas resolvo tomando remédios para dormir e fica tudo certo.</p>",
+          "order": 3
+        },
+        {
+          "id": 42029154,
+          "text": "<p>Normal. Durmo e acordo geralmente nos mesmos horários, nunca tive problema com isso.</p>",
+          "order": 4
+        }
+      ]
+    }
+  ],
+  "minimumScoreRequired": false,
+  "minimumScorePercent": 0,
+  "quizType": "PROFILE"
+}
